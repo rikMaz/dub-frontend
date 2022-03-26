@@ -1,2 +1,2 @@
-# dub-fronted
+# dub-frontend
 React Frontend
